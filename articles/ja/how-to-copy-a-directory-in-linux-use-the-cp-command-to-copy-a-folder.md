@@ -4,11 +4,11 @@ date: 2024-08-27T12:15:29.968Z
 author: Shittu Olumide
 authorURL: https://www.freecodecamp.org/news/author/shittuolumide/
 originalURL: https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/
-posteditor: ""
+posteditor: "YUUSUKE OKAMOTO"
 proofreader: ""
 ---
 
-Linux でフォルダーをコピーする必要がある場面は多々あります。バックアップや共有、編集など、特定のタスクを実行するためにフォルダーをコピーする機会は頻繁に訪れます。このような操作は `cp` コマンドを使用して簡単に行うことができます。
+Linux でフォルダーをコピーする必要がある場面は多々あります。ファイルのバックアップや共有、編集など、特定のタスクを実行するためにフォルダーをコピーする機会は頻繁に訪れます。このような操作は `cp` コマンドを使用して簡単に行うことができます。
 
 <!-- more -->
 
